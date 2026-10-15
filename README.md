@@ -21,4 +21,19 @@ samples, guidance on mobile development, and a full API reference.
 
 1:Reuse the same authentication code.
 2:Firebase Configuration:Register each app with same firebase project.
-3:paste the code of this otp project in to the existing project.
+3:
+lib/
+ ├── main.dart
+ ├── firebase_options.dart
+ └── app/
+     └── modules/
+         └── auth/
+             ├── views/
+             │   ├── login_view.dart
+             │   └── otp_view.dart
+             ├── controllers/
+             │   └── auth_controller.dart
+             └── services/
+                 └── auth_service.dart
+
+copy and paste the above fields project in to the existing project.
