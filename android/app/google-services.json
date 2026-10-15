@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478976074048",
+    "project_id": "s2s-testing-e2140",
+    "storage_bucket": "s2s-testing-e2140.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478976074048:android:9cb543d2c0510db3f1daa5",
+        "android_client_info": {
+          "package_name": "com.example.otp_verify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGIvBt5RFhvIoejrgLCBaTaJIA7cKuag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
