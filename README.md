@@ -15,3 +15,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## To Connect firebase projects with other projects ##
+
+1:Reuse the same authentication code.
+2:Firebase Configuration:Register each app with same firebase project.
+3:paste the code of this otp project in to the existing project.
